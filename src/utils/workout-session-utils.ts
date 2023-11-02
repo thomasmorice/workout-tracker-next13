@@ -6,7 +6,11 @@ export type SessionType = NonNullable<
   inferProcedureOutput<AppRouter["workout-session"]["get-session-by-id"]>
 >;
 
-export const getSessionTotalTime = (session: SessionType) => {
+type SessionTypeFromEvent = inferProcedureOutput<
+  AppRouter["event"]["get-events"]
+>[number]["workoutSession"][number];
+
+export const getSessionTotalTime = (session: SessionTypeFromEvent) => {
   return session.workoutResult.reduce(
     (sum, current) => sum + (current.workout.totalTime ?? 0),
     0,
@@ -32,7 +36,7 @@ export const getColorByWorkoutType = (
 };
 
 export const areWorkoutResultsFilled = (
-  results: SessionType["workoutResult"],
+  results: SessionTypeFromEvent["workoutResult"],
 ) => {
   const resultsFilled = results.map((result) => isWorkoutResultFilled(result));
   if (resultsFilled.every((result) => result)) {
@@ -51,7 +55,7 @@ export const hasBenchmarkeableResult = (
 };
 
 export const isWorkoutResultFilled = (
-  result: SessionType["workoutResult"][number],
+  result: SessionTypeFromEvent["workoutResult"][number],
 ) => {
   return (
     result.isRx ??
