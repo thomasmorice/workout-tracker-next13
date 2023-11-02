@@ -1,0 +1,66 @@
+{
+"User": [
+	{
+		"id" : "admin",
+		"name" : "Admin",
+		"email" : "contact@workout-tracker.io",
+		"emailVerified" : null,
+		"image" : "https:\/\/i.pravatar.cc\/300",
+		"affiliateId" : null,
+		"gender" : null
+	},
+	{
+		"id" : "cl8niscl30033bzo89iy1gutp",
+		"name" : "Stay humble On Crypto",
+		"email" : "stayhumbleoncrypto@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a\/ALm5wu2FohJhZVmJWQY2Tk6CE3wLeh2nZY0LOhXnYCY_=s96-c",
+		"affiliateId" : null,
+		"gender" : null
+	},
+	{
+		"id" : "cl8m2ps1814257mvo84euch0rg",
+		"name" : "Pauline Vercruysse",
+		"email" : "crosstrack.project@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a\/ALm5wu3hdvO3S0uO4zoQLcw7sXqB9PBFJTm5NI7_6n5J=s96-c",
+		"affiliateId" : 2290,
+		"gender" : null
+	},
+	{
+		"id" : "cl988x2ij000609lalldll607",
+		"name" : "François",
+		"email" : "desobry.f@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a\/ALm5wu2EC2CTNk1Zb1G5eF2sNioc8FE2g_qHk9mIE9RHwQ=s96-c",
+		"affiliateId" : 2290,
+		"gender" : null
+	},
+	{
+		"id" : "clhoj9a8x0000o8wd97mo1rt3",
+		"name" : "Box Track",
+		"email" : "boxtrackapp@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a\/AGNmyxbh7nzNmOUtBofFCeF0odwDqAfeVp9sDUOASM22=s96-c",
+		"affiliateId" : null,
+		"gender" : null
+	},
+	{
+		"id" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"name" : "Thomas T.",
+		"email" : "t.morice4@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a-\/AFdZucoUD9d8mMQU87Yn1XAN7bGYw3PIa8ps0hiIPpZiBg=s96-c",
+		"affiliateId" : 2290,
+		"gender" : "MALE"
+	},
+	{
+		"id" : "cl8pp9c1m003409mnlxni2dpw",
+		"name" : "Pauline Vercruysse",
+		"email" : "pauline.vercruysse1989@gmail.com",
+		"emailVerified" : null,
+		"image" : "https:\/\/lh3.googleusercontent.com\/a\/ALm5wu2NK2WdUVp2ejbEuFqWBwcp_4x1n6EHNDnx4PST=s96-c",
+		"affiliateId" : null,
+		"gender" : "FEMALE"
+	}
+]}

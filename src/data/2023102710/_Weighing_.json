@@ -1,0 +1,423 @@
+{
+"Weighing": [
+	{
+		"id" : 56,
+		"weight" : 82.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 139
+	},
+	{
+		"id" : 58,
+		"weight" : 85.5,
+		"userId" : "cl988x2ij000609lalldll607",
+		"eventId" : 151
+	},
+	{
+		"id" : 2,
+		"weight" : 75.3,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 75
+	},
+	{
+		"id" : 3,
+		"weight" : 77.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 76
+	},
+	{
+		"id" : 4,
+		"weight" : 77.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 77
+	},
+	{
+		"id" : 5,
+		"weight" : 76.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 78
+	},
+	{
+		"id" : 6,
+		"weight" : 78.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 79
+	},
+	{
+		"id" : 7,
+		"weight" : 77.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 80
+	},
+	{
+		"id" : 8,
+		"weight" : 77.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 81
+	},
+	{
+		"id" : 9,
+		"weight" : 74.6,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 82
+	},
+	{
+		"id" : 10,
+		"weight" : 72.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 83
+	},
+	{
+		"id" : 11,
+		"weight" : 72.3,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 84
+	},
+	{
+		"id" : 12,
+		"weight" : 71.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 85
+	},
+	{
+		"id" : 13,
+		"weight" : 69.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 86
+	},
+	{
+		"id" : 14,
+		"weight" : 72.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 87
+	},
+	{
+		"id" : 15,
+		"weight" : 72.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 88
+	},
+	{
+		"id" : 16,
+		"weight" : 70.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 89
+	},
+	{
+		"id" : 17,
+		"weight" : 72.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 90
+	},
+	{
+		"id" : 18,
+		"weight" : 71.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 91
+	},
+	{
+		"id" : 19,
+		"weight" : 70.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 92
+	},
+	{
+		"id" : 20,
+		"weight" : 74.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 93
+	},
+	{
+		"id" : 21,
+		"weight" : 74.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 94
+	},
+	{
+		"id" : 22,
+		"weight" : 75.4,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 95
+	},
+	{
+		"id" : 23,
+		"weight" : 77.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 96
+	},
+	{
+		"id" : 24,
+		"weight" : 77.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 97
+	},
+	{
+		"id" : 25,
+		"weight" : 79.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 98
+	},
+	{
+		"id" : 26,
+		"weight" : 79.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 99
+	},
+	{
+		"id" : 27,
+		"weight" : 81.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 100
+	},
+	{
+		"id" : 28,
+		"weight" : 79.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 101
+	},
+	{
+		"id" : 29,
+		"weight" : 80.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 102
+	},
+	{
+		"id" : 30,
+		"weight" : 80.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 103
+	},
+	{
+		"id" : 31,
+		"weight" : 80.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 104
+	},
+	{
+		"id" : 32,
+		"weight" : 78.4,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 105
+	},
+	{
+		"id" : 33,
+		"weight" : 78.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 106
+	},
+	{
+		"id" : 34,
+		"weight" : 78.3,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 107
+	},
+	{
+		"id" : 35,
+		"weight" : 83.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 108
+	},
+	{
+		"id" : 36,
+		"weight" : 81.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 109
+	},
+	{
+		"id" : 37,
+		"weight" : 81.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 110
+	},
+	{
+		"id" : 38,
+		"weight" : 81.6,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 111
+	},
+	{
+		"id" : 39,
+		"weight" : 82.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 112
+	},
+	{
+		"id" : 40,
+		"weight" : 82.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 113
+	},
+	{
+		"id" : 41,
+		"weight" : 81.6,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 114
+	},
+	{
+		"id" : 42,
+		"weight" : 80.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 115
+	},
+	{
+		"id" : 43,
+		"weight" : 81.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 116
+	},
+	{
+		"id" : 44,
+		"weight" : 82.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 117
+	},
+	{
+		"id" : 45,
+		"weight" : 81.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 118
+	},
+	{
+		"id" : 46,
+		"weight" : 81.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 119
+	},
+	{
+		"id" : 47,
+		"weight" : 79.3,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 120
+	},
+	{
+		"id" : 48,
+		"weight" : 79.6,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 121
+	},
+	{
+		"id" : 49,
+		"weight" : 79.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 122
+	},
+	{
+		"id" : 50,
+		"weight" : 78.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 123
+	},
+	{
+		"id" : 59,
+		"weight" : 78.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 153
+	},
+	{
+		"id" : 54,
+		"weight" : 81.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 130
+	},
+	{
+		"id" : 55,
+		"weight" : 80.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 134
+	},
+	{
+		"id" : 60,
+		"weight" : 78.0,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 161
+	},
+	{
+		"id" : 57,
+		"weight" : 82.2,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 140
+	},
+	{
+		"id" : 63,
+		"weight" : 77.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 222
+	},
+	{
+		"id" : 67,
+		"weight" : 78.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 231
+	},
+	{
+		"id" : 68,
+		"weight" : 78.3,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 262
+	},
+	{
+		"id" : 69,
+		"weight" : 78.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 266
+	},
+	{
+		"id" : 70,
+		"weight" : 80.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 277
+	},
+	{
+		"id" : 71,
+		"weight" : 79.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 284
+	},
+	{
+		"id" : 72,
+		"weight" : 80.7,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 297
+	},
+	{
+		"id" : 73,
+		"weight" : 79.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 307
+	},
+	{
+		"id" : 74,
+		"weight" : 79.1,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 308
+	},
+	{
+		"id" : 76,
+		"weight" : 79.9,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 325
+	},
+	{
+		"id" : 77,
+		"weight" : 80.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 340
+	},
+	{
+		"id" : 78,
+		"weight" : 79.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 348
+	},
+	{
+		"id" : 79,
+		"weight" : 78.8,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 400
+	},
+	{
+		"id" : 80,
+		"weight" : 77.5,
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"eventId" : 418
+	}
+]}

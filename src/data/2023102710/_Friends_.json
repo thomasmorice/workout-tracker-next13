@@ -1,0 +1,33 @@
+{
+"Friends": [
+	{
+		"id" : "1",
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"friendUserId" : "cl8m2ps1814257mvo84euch0rg",
+		"privileges" : "{CAN_ACCESS_CLASSIFIED,TAKE_UNCLASSIFIED_OWNERSHIP}"
+	},
+	{
+		"id" : "2",
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"friendUserId" : "cl8pp9c1m003409mnlxni2dpw",
+		"privileges" : "{CAN_ACCESS_CLASSIFIED,TAKE_UNCLASSIFIED_OWNERSHIP}"
+	},
+	{
+		"id" : "3",
+		"userId" : "cl8pp9c1m003409mnlxni2dpw",
+		"friendUserId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"privileges" : "{CAN_ACCESS_CLASSIFIED,TAKE_UNCLASSIFIED_OWNERSHIP}"
+	},
+	{
+		"id" : "4",
+		"userId" : "cl988x2ij000609lalldll607",
+		"friendUserId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"privileges" : "{CAN_ACCESS_CLASSIFIED,TAKE_UNCLASSIFIED_OWNERSHIP}"
+	},
+	{
+		"id" : "5",
+		"userId" : "cl6jsjxy00006uyo8h2v8fr2e",
+		"friendUserId" : "cl988x2ij000609lalldll607",
+		"privileges" : "{CAN_ACCESS_CLASSIFIED,TAKE_UNCLASSIFIED_OWNERSHIP}"
+	}
+]}

@@ -1,0 +1,156 @@
+{
+"Benchmark": [
+	{
+		"id" : "88ac70a2-f80c-11ed-b67e-0242ac120002",
+		"workoutId" : 6123,
+		"worstWomanResult" : 2400,
+		"worstManResult" : 2100,
+		"bestWomanResult" : 1520,
+		"bestManResult" : 1340,
+		"abilitiesRequired" : "{ENDURANCE,CARDIOVASCULAR_FITNESS,STAMINA}"
+	},
+	{
+		"id" : "1e78f9d8-2a4e-4ec8-ba3f-da877286c81f",
+		"workoutId" : 1671,
+		"worstWomanResult" : 710,
+		"worstManResult" : 528,
+		"bestWomanResult" : 419,
+		"bestManResult" : 373,
+		"abilitiesRequired" : "{ENDURANCE,CARDIOVASCULAR_FITNESS,MENTAL_TOUGHNESS}"
+	},
+	{
+		"id" : "6581aac1-190a-4047-93fd-26bd0a6bb3b8",
+		"workoutId" : 1660,
+		"worstWomanResult" : 38,
+		"worstManResult" : 43,
+		"bestWomanResult" : 115,
+		"bestManResult" : 250,
+		"abilitiesRequired" : "{STRENGTH,POWER,TECHNIQUE}"
+	},
+	{
+		"id" : "482ee7ea-585b-44db-9f7d-b26195721759",
+		"workoutId" : 1673,
+		"worstWomanResult" : 40,
+		"worstManResult" : 76,
+		"bestWomanResult" : 150,
+		"bestManResult" : 240,
+		"abilitiesRequired" : "{STRENGTH,POWER,TECHNIQUE}"
+	},
+	{
+		"id" : "7a55c086-4e46-493d-8309-777a33cd4748",
+		"workoutId" : 1663,
+		"worstWomanResult" : -20,
+		"worstManResult" : -8,
+		"bestWomanResult" : 60,
+		"bestManResult" : 110,
+		"abilitiesRequired" : "{STRENGTH}"
+	},
+	{
+		"id" : "c4eb6621-ffe1-46d8-af17-419d383c4a47",
+		"workoutId" : 1674,
+		"worstWomanResult" : 480,
+		"worstManResult" : 480,
+		"bestWomanResult" : 131,
+		"bestManResult" : 131,
+		"abilitiesRequired" : "{SPEED,POWER,TECHNIQUE}"
+	},
+	{
+		"id" : "50f1c71c-e5c9-44f4-bc89-c0c291e930ce",
+		"workoutId" : 1669,
+		"worstWomanResult" : 600,
+		"worstManResult" : 600,
+		"bestWomanResult" : 110,
+		"bestManResult" : 110,
+		"abilitiesRequired" : "{SPEED,POWER,STRENGTH,MENTAL_TOUGHNESS}"
+	},
+	{
+		"id" : "632fde4b-f660-4d63-b4f1-0fe6ab5982d8",
+		"workoutId" : 1672,
+		"worstWomanResult" : 20,
+		"worstManResult" : 32,
+		"bestWomanResult" : 75,
+		"bestManResult" : 133,
+		"abilitiesRequired" : "{TECHNIQUE,POWER,STRENGTH}"
+	},
+	{
+		"id" : "5b1b4348-a29e-45a7-a1a1-ace31d1b0c12",
+		"workoutId" : 1668,
+		"worstWomanResult" : 14,
+		"worstManResult" : 30,
+		"bestWomanResult" : 64,
+		"bestManResult" : 109,
+		"abilitiesRequired" : "{STRENGTH,TECHNIQUE}"
+	},
+	{
+		"id" : "3db970d9-05b5-46a4-a9b9-39eed4f8d126",
+		"workoutId" : 1650,
+		"worstWomanResult" : 25,
+		"worstManResult" : 37,
+		"bestWomanResult" : 91,
+		"bestManResult" : 158,
+		"abilitiesRequired" : "{STRENGTH,TECHNIQUE}"
+	},
+	{
+		"id" : "a935f940-9f2a-4a4d-ba59-d2a43a3bd2f5",
+		"workoutId" : 1670,
+		"worstWomanResult" : 28,
+		"worstManResult" : 50,
+		"bestWomanResult" : 105,
+		"bestManResult" : 172,
+		"abilitiesRequired" : "{STRENGTH,TECHNIQUE}"
+	},
+	{
+		"id" : "b9949101-340a-4e1a-85fb-16f0e0855e1e",
+		"workoutId" : 1666,
+		"worstWomanResult" : -25,
+		"worstManResult" : -13,
+		"bestWomanResult" : 51,
+		"bestManResult" : 93,
+		"abilitiesRequired" : "{STRENGTH}"
+	},
+	{
+		"id" : "37006ce0-1f91-4ab7-9b0a-37a492c84401",
+		"workoutId" : 2634,
+		"worstWomanResult" : 1200,
+		"worstManResult" : 1200,
+		"bestWomanResult" : 540,
+		"bestManResult" : 540,
+		"abilitiesRequired" : "{AGILITY,CARDIOVASCULAR_FITNESS}"
+	},
+	{
+		"id" : "27e78aeb-5ffe-4712-8b9b-b80ea39caf55",
+		"workoutId" : 8050,
+		"worstWomanResult" : 3000,
+		"worstManResult" : 3000,
+		"bestWomanResult" : 1740,
+		"bestManResult" : 1740,
+		"abilitiesRequired" : "{ENDURANCE,MENTAL_TOUGHNESS,RECOVERY}"
+	},
+	{
+		"id" : "536d1064-a6d1-48ec-90ce-f98a7495660c",
+		"workoutId" : 2633,
+		"worstWomanResult" : 14,
+		"worstManResult" : 15,
+		"bestWomanResult" : 70,
+		"bestManResult" : 120,
+		"abilitiesRequired" : "{STRENGTH,TECHNIQUE}"
+	},
+	{
+		"id" : "62cf69f3-f527-4ac0-a3b1-6cb2456b4a2d",
+		"workoutId" : 10038,
+		"worstWomanResult" : 20,
+		"worstManResult" : 29,
+		"bestWomanResult" : 81,
+		"bestManResult" : 146,
+		"abilitiesRequired" : "{STRENGTH,TECHNIQUE}"
+	},
+	{
+		"id" : "ada18c28-d5b8-4d0a-9dcb-6b3e4ab4961f",
+		"workoutId" : 41,
+		"worstWomanResult" : 10,
+		"worstManResult" : 10,
+		"bestWomanResult" : 325,
+		"bestManResult" : 325,
+		"abilitiesRequired" : "{STAMINA,CARDIOVASCULAR_FITNESS,MENTAL_TOUGHNESS}"
+	}
+]}
